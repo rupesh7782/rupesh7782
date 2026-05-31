@@ -11,10 +11,10 @@
 ## Skills
 
 * Programming: Python, C
-* Databases: MySQL, PostgreSQL
+* Databases: MySQL, PostgreSQL, SQL
 * Tools: Git, GitHub, Postman, Linux
 * Web: HTML5, CSS3
-* Concepts: Blockchain, Machine Learning, REST APIs
+* Concepts: SQL, Database Design, DBMS, REST APIs, Business Analytics, Machine Learning
 
 ## Projects
 
