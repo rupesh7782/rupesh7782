@@ -24,6 +24,7 @@
 
 ## Connect With Me
 
-* LinkedIn: linkedin.com/in/rupesh-chavan-43664a219
-* GitHub: github.com/rupesh7782
-* 🌐 Portfolio: https://rupesh7782.github.io/
+- 🌐 Portfolio: https://rupesh7782.github.io/
+- 💼 LinkedIn: https://linkedin.com/in/rupesh-chavan-43664a219
+- 💻 GitHub: https://github.com/rupesh7782
+- 📧 Email: rupesh441122@gmail.com
