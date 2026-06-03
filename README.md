@@ -26,4 +26,4 @@
 
 * LinkedIn: linkedin.com/in/rupesh-chavan-43664a219
 * GitHub: github.com/rupesh7782
-* My Portfolio:-https://rupesh7782.github.io/
+* 🌐 Portfolio: https://rupesh7782.github.io/
