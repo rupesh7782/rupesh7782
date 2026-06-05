@@ -1,7 +1,7 @@
 # Hey 👋, I'm Rupesh Chavan
 
 <p align="center">
-  <img src="images/profile-cartoon.png" width="350" alt="Rupesh Chavan">
+  <img src="READMEPROFILEIMAGE.png" width="350" alt="Rupesh Chavan">
 </p>
 
 ### About Me
