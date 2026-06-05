@@ -1,66 +1,11 @@
+<img align="right" alt="Rupesh Chavan" width="280" src="READMEPROFILEIMAGE.png">
 
-<img align="right" alt="Coding" width="300" src="READMEPROFILEIMAGE.png">
+<h1 align="left">Hey 👋, I'm Rupesh Chavan</h1>
 
-# Hey 👋, I'm Rupesh Chavan
-
-### About Me
-
-* 🎓 B.Tech Graduate in Computer Engineering
-* 💻 Interested in SQL, PostgreSQL, Linux, APIs, and Business Analytics
-* 🌱 Currently learning Advanced SQL and Linux
-* 🔍 Looking for entry-level opportunities in IT and Data-related roles
-* 🚀 Passionate about technology, problem-solving, and continuous learning
-
-## Skills
-
-### Programming
-
-* Python
-* C
-
-### Databases
-
-* SQL
-* MySQL
-* PostgreSQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* Linux
-
-### Web Technologies
-
-* HTML5
-* CSS3
-
-### Concepts
-
-* Database Design
-* DBMS
-* REST APIs
-* Business Analytics
-* Machine Learning
-
-## Projects
-
-### 🚗 Driving School Management System
-
-* Python, MySQL, JavaScript, HTML, CSS
-
-### ❤️ ECG & Cardiac Monitoring System
-
-* IoT, Machine Learning, Python
-
-### 🔍 Financial Asset Tracing & Fraud Detection
-
-* Hyperledger Fabric, AI/ML
-
-## Connect With Me
-
-* 🌐 Portfolio: https://rupesh7782.github.io/
-* 💼 LinkedIn: https://linkedin.com/in/rupesh-chavan-43664a219
-* 💻 GitHub: https://github.com/rupesh7782
-* 📧 Email: [rupesh441122@gmail.com](mailto:rupesh441122@gmail.com)
+<p>
+🎓 B.Tech Graduate in Computer Engineering<br>
+💻 Interested in SQL, PostgreSQL, Linux, APIs, and Business Analytics<br>
+🌱 Currently learning Advanced SQL and Linux<br>
+🔍 Looking for entry-level opportunities in IT and Data-related roles<br>
+🚀 Passionate about technology, problem-solving, and continuous learning
+</p>
