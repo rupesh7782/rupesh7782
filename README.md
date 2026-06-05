@@ -18,9 +18,9 @@
 
 <img src="READMEPROFILEIMAGE.png" width="250"/>
 
-</td>
+<!-- </td>
 </tr>
-</table>
+</table> -->
 ### About Me
 
 * 🎓 B.Tech Graduate in Computer Engineering
@@ -88,6 +88,8 @@
 
 📧 Email: [rupesh441122@gmail.com](mailto:rupesh441122@gmail.com)
 
----
+</td>
+</tr>
+</table>
 
 ⭐ Always learning, building, and improving.
