@@ -1,30 +1,77 @@
-## Hey 👋, I'm Rupesh Chavan
+# Hey 👋, I'm Rupesh Chavan
+
+<p align="center">
+  <img src="images/profile-cartoon.png" width="350" alt="Rupesh Chavan">
+</p>
 
 ### About Me
 
-* 🎓 B.Tech Graduate
+* 🎓 B.Tech Graduate in Computer Engineering
 * 💻 Interested in SQL, PostgreSQL, Linux, APIs, and Business Analytics
-* 🌱 Currently learning advanced SQL and Linux
+* 🌱 Currently learning Advanced SQL and Linux
 * 🔍 Looking for entry-level opportunities in IT and Data-related roles
 * 🚀 Passionate about technology, problem-solving, and continuous learning
 
 ## Skills
 
-* Programming: Python, C
-* Databases: MySQL, PostgreSQL, SQL
-* Tools: Git, GitHub, Postman, Linux
-* Web: HTML5, CSS3
-* Concepts: SQL, Database Design, DBMS, REST APIs, Business Analytics, Machine Learning
+### Programming
+
+* Python
+* C
+
+### Databases
+
+* SQL
+* MySQL
+* PostgreSQL
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* Linux
+
+### Web Technologies
+
+* HTML5
+* CSS3
+
+### Concepts
+
+* Database Design
+* DBMS
+* REST APIs
+* Business Analytics
+* Machine Learning
 
 ## Projects
 
-* Electronic Voting System (Blockchain, Solidity, Ethereum)
-* Driving School Management System (Python, MySQL, JavaScript, HTML, CSS)
-* Financial Asset Tracing & Fraud Detection (Hyperledger Fabric, AI/ML)
+### 🚗 Driving School Management System
+
+* Python, MySQL, JavaScript, HTML, CSS
+* Student registration, instructor management, vehicle allocation, and booking system
+
+### ❤️ ECG & Cardiac Monitoring System
+
+* IoT, Machine Learning, Python
+* Real-time ECG monitoring and abnormal heart condition detection
+
+### 🔍 Financial Asset Tracing & Fraud Detection
+
+* Hyperledger Fabric, AI/ML
+* Cryptocurrency transaction tracing and fraud detection
 
 ## Connect With Me
 
-- 🌐 Portfolio: https://rupesh7782.github.io/
-- 💼 LinkedIn: https://linkedin.com/in/rupesh-chavan-43664a219
-- 💻 GitHub: https://github.com/rupesh7782
-- 📧 Email: rupesh441122@gmail.com
+🌐 Portfolio: https://rupesh7782.github.io/
+
+💼 LinkedIn: https://linkedin.com/in/rupesh-chavan-43664a219
+
+💻 GitHub: https://github.com/rupesh7782
+
+📧 Email: [rupesh441122@gmail.com](mailto:rupesh441122@gmail.com)
+
+---
+
+⭐ Always learning, building, and improving.
