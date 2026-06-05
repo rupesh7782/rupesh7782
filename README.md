@@ -12,32 +12,45 @@
 * 🔍 Looking for entry-level opportunities in IT and Data-related roles
 * 🚀 Passionate about technology, problem-solving, and continuous learning
 
-### Skills
+</td>
 
-**Programming**
+<td width="35%">
+
+<img src="images/profile-cartoon.png" width="250"/>
+
+</td>
+</tr>
+
+
+
+# Hey 👋, I'm Rupesh Chavan
+
+## Skills
+
+### Programming
 
 * Python
 * C
 
-**Databases**
+### Databases
 
 * SQL
 * MySQL
 * PostgreSQL
 
-**Tools & Platforms**
+### Tools & Platforms
 
 * Git
 * GitHub
 * Postman
 * Linux
 
-**Web Technologies**
+### Web Technologies
 
 * HTML5
 * CSS3
 
-**Concepts**
+### Concepts
 
 * Database Design
 * DBMS
@@ -45,36 +58,19 @@
 * Business Analytics
 * Machine Learning
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="READMEPROFILEIMAGE.png"  width="280" alt="Rupesh Chavan"/>
-
-</td>
-</tr>
-</table>
-
----
-
 ## Projects
 
 ### 🚗 Driving School Management System
 
 * Python, MySQL, JavaScript, HTML, CSS
-* Student registration, instructor management, vehicle allocation, and booking system
 
 ### ❤️ ECG & Cardiac Monitoring System
 
 * IoT, Machine Learning, Python
-* Real-time ECG monitoring and abnormal heart condition detection
 
 ### 🔍 Financial Asset Tracing & Fraud Detection
 
 * Hyperledger Fabric, AI/ML
-* Cryptocurrency transaction tracing and fraud detection
-
----
 
 ## Connect With Me
 
@@ -82,7 +78,4 @@
 * 💼 LinkedIn: https://linkedin.com/in/rupesh-chavan-43664a219
 * 💻 GitHub: https://github.com/rupesh7782
 * 📧 Email: [rupesh441122@gmail.com](mailto:rupesh441122@gmail.com)
-
----
-
-⭐ Always learning, building, and improving.
+</table>
