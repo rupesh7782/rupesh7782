@@ -19,7 +19,7 @@
 ## Projects
 
 * Electronic Voting System (Blockchain, Solidity, Ethereum)
-* ECG & Cardiac Monitoring System (IoT, Machine Learning)
+* Driving School Management System (Python, MySQL, JavaScript, HTML, CSS)
 * Financial Asset Tracing & Fraud Detection (Hyperledger Fabric, AI/ML)
 
 ## Connect With Me
