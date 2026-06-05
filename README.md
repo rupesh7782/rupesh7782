@@ -1,9 +1,26 @@
+<table>
+<tr>
+<td width="65%">
+
 # Hey 👋, I'm Rupesh Chavan
 
-<p align="center">
-  <img src="READMEPROFILEIMAGE.png" width="350" alt="Rupesh Chavan">
-</p>
+### About Me
 
+* 🎓 B.Tech Graduate in Computer Engineering
+* 💻 Interested in SQL, PostgreSQL, Linux, APIs, and Business Analytics
+* 🌱 Currently learning Advanced SQL and Linux
+* 🔍 Looking for entry-level opportunities in IT and Data-related roles
+* 🚀 Passionate about technology, problem-solving, and continuous learning
+
+</td>
+
+<td width="35%">
+
+<img src="READMEPROFILEIMAGE.png" width="250"/>
+
+</td>
+</tr>
+</table>
 ### About Me
 
 * 🎓 B.Tech Graduate in Computer Engineering
@@ -43,7 +60,6 @@
 * DBMS
 * REST APIs
 * Business Analytics
-* Machine Learning
 
 ## Projects
 
