@@ -16,7 +16,7 @@
 
 * Python
 * C
-<img align="right" alt="Rupesh Chavan" width="600" src="pg.gif">
+<img align="right" alt="Rupesh Chavan" width="600" src="pg.gif"><img src="pf.gif" width="600">
 
 ### Databases
 
