@@ -16,9 +16,10 @@
 * 🔍 Looking for entry-level opportunities in IT and Data-related roles
 * 🚀 Passionate about technology, problem-solving, and continuous learning
 
-<img src="pf.gif" align="right" width="600">
+
 
 ## 🛠️ Skills
+<img src="pf.gif" align="right" width="600">
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,12 +78,6 @@ Cryptocurrency transaction tracing and fraud detection.
 </div>
 
 > ⚙️ This one needs a tiny one-time setup — see the included `snake.yml` workflow file and the notes below.
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupesh7782&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</div>
 
 ## 📫 Connect With Me
 
