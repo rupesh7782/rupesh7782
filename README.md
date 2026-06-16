@@ -81,7 +81,7 @@ Cryptocurrency transaction tracing and fraud detection.
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rupesh7782&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rupesh7782&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 ## 📫 Connect With Me
