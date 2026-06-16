@@ -77,7 +77,6 @@ Cryptocurrency transaction tracing and fraud detection.
 
 </div>
 
-> ⚙️ This one needs a tiny one-time setup — see the included `snake.yml` workflow file and the notes below.
 
 ## 📫 Connect With Me
 
