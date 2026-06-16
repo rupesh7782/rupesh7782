@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Rupesh%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20IT%20%26%20Data%20Professional&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Rupesh%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20IT%20and%20Data%20Professional&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+Computer+Engineering+Graduate;SQL+%26+PostgreSQL+Enthusiast;Linux+%26+API+Explorer;Open+to+Entry-Level+IT+%26+Data+Roles&font=Fira+Code&center=true&width=600&height=50&color=06B6D4&vCenter=true&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+Computer+Engineering+Graduate;SQL+and+PostgreSQL+Enthusiast;Linux+and+API+Explorer;Open+to+Entry-Level+IT+and+Data+Roles&font=Fira+Code&center=true&width=600&height=50&color=06B6D4&vCenter=true&size=22" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rupesh7782&color=06B6D4&style=for-the-badge&label=PROFILE+VIEWS)
 
