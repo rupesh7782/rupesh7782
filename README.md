@@ -19,7 +19,7 @@
 
 
 ## 🛠️ Skills
-<img src="pf.gif" align="right" width="600">
+<img src="pf.gif" align="right" width="600" alt="Demo">
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
